@@ -31,7 +31,7 @@ body{
     z-index: 1000;
 }
 .logo {
-    max-width: 100px;
+    max-width: 90px;
     height: auto;
 }
 .menu .nav-links ul li{
